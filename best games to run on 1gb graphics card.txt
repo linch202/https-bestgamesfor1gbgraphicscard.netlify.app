@@ -1,0 +1,133 @@
+<html>
+<body style= "background: url(https://img.freepik.com/free-photo/abstract-futuristic-background-with-3d-design_1361-3532.jpg?w=1060&t=st=1667232976~exp=1667233576~hmac=8883a6ab7b5850d02b3131f2958472d1d87b846a7a766ea5c94d3d3f12f17f08)">
+MY WEBSITE
+<STRONG><B><H1 STYLE ="COLOR:GREEN;">BEST GAMES TO RUN ON 1GB GRAPHICS CARD</H1></B></STRONG>
+<HR>
+<ol>
+<b><li><h2 style="color:YELLOW;">Grand Theft Auto 4&5</h2></li></b>
+<p style="color:red">The story of three uniquely-different criminals as they commit daring and profitable heists across the sprawling city of Los Santos.<br>
+ Michael is an ex-con whose past catches up to him when previous crime partner Trevor starts making a name for himself as a drug-lord of Sandy Shores.<br>
+Niko Bellic, an Eastern European war veteran, migrates to Liberty City to forget the horrific and graphic memories of his past and for a better life,<br>
+things don't come out as planned as he has to wipe out mobsters and loan sharks that are preventing his cousin, Roman from making money freely.<br>
+</p>
+<picture>
+  <source media="(min-width:650px)" srcset="maxresdefault.JPG">
+  <source media="(min-width:465px)" srcset="maxresdefault.JPG">
+  <img src="maxresdefault.jpg">
+</picture>
+<img src="download.jpg">
+<hr>
+<b><li><h2 style="color:YELLOW;">Assasins creed II,III,brotherhood,revelations,IV black flag</h2></li></b>
+<p style="color:red">The plot is set in a fictional history of real-world events, taking place primarily during the Third Crusade in the Holy Land in 1191.<br>
+ The player character is a modern-day man named Desmond Miles who, through a machine called the "Animus",</p>
+<img src="maxresdefault (1).JPG">
+<li><h2 style ="color:YELLOW;">MAX PAYNE 3</h2>
+<p style="color:red">Throughout the single-player mode, players control Max Payne, a former NYPD detective.<br>
+ Nine years after the events of the second game, Max finds work as a private security contractor in São Paulo, Brazil,<br>
+but becomes entangled in a quest filled with death and betrayal.</p>
+<img src="imageshola.JPG">
+<hr>
+<b></li><li><h2 style ="color:YELLOW;">WATCHDOGS</h2></li></b>
+<p style=" color:red">The plot of Watch Dogs is Aiden Pearce is a hacker that has hacked a system called ctOS (Central Operating System).<br>
+When Aiden takes his hacking skills too far and hacks the wrong people they retaliate by killing his niece but Aiden Pearce swears vengeance on ctOS and all who control it.</p>
+<img src="4E1Q42141.JPG">
+<b><li><h2 style ="color:YELLOW;">CRYSIS1,2&3</h2></li></b>
+<p style="COLOR:RED">The first two games, Crysis and Crysis Warhead, take place in 2020 on the fictional Lingshan Islands, off the Philippines.<br>
+The protagonists of both games both belong to the fictitious "Raptor Team", a United States Army Delta Force unit that is sent to the island to investigate aggressive behavior by North Korea.</p>
+<img src="download31254.JPG">
+<hr>
+<b><li><h2 style ="color:YELLOW;">Prototype 1&2</h2></li></b>
+<p style=" COLOR:RED" p="">Prototype (typeset as [PROTOTYPE]) is an action-adventure game published by Activision and developed by Radical Entertainment. The game was released in North America on June 9, 2009, <br>
+and in southwestern parts of North America as well as Oceania on June 10, and was released in Europe on June 12.<br>
+The game is set in New York City as a virus infects people and the military attempts to put an end to it. <br>
+The protagonist of the story is named Alex Mercer, who has enemy-absorbing and shapeshifting abilities.</p>
+<img src="prototype-violence.jpg">
+<hr>
+<b><li><h2 style ="color:YELLOW;">Outlast 1&amp;2</h2></li></b>
+<p style="COLOR:RED">In Outlast, the player assumes the role of investigative journalist Miles Upshur, as he navigates a dilapidated psychiatric hospital in Leadville, Colorado that is overrun by homicidal patients.<br>
+ The game is played from a first-person perspective and features some stealth gameplay mechanics.</p>
+<p style="COLOR:BLUE">
+Genre(s): Survival horror
+Mode(s): Single-player</p>
+<img src="ss_1b8e6a3a5e06f29ef028946d1d2c6d74574cbb1f.1920x1080.JPG">
+<hr>
+<b><LI><h2 style ="color:YELLOW;">COUNTER STRIKE GLOBAL OFFENSIVE</H2></LI></b>
+<p style="COLOR:RED">Counter-Strike: Global Offensive (CS:GO) is a 2012 multiplayer tactical first-person shooter developed by Valve and Hidden Path Entertainment. It is the fourth game in the Counter-Strike series. Developed for over two years, Global Offensive was released for<BR>
+Windows, macOS, Xbox 360, and PlayStation 3 in August 2012, and for Linux in 2014. Valve still regularly updates the game, both with smaller balancing patches and larger content additions.</P>
+<img src="images (1).JPG">  <img src="images.JPG">
+<hr>
+<b><LI><h2 style ="color:YELLOW;">FARCRY 2,3,4&PRIMAL</LI></H2></b>
+<P STYLE="COLOR:RED">Far Cry is a franchise of first-person shooter games, all of which have been published by Ubisoft. The first game, Far Cry, was developed by Crytek to premiere their CryEngine software, and released in March 2004.<BR>
+ Subsequently, Ubisoft obtained the rights to the franchise and the bulk of the development is handled by Ubisoft Montreal with assistance from other Ubisoft satellite studios. <BR>
+The following games in the series have used a Ubisoft-modified version of the CryEngine, the Dunia Engine, allowing for open world gameplay.<BR>
+In the present, the franchise consists of six mainline games, a standalone expansion, and several spin-offs; additionally, the first game,<BR>
+initially developed for Microsoft Windows, saw a number of ports to video game consoles, which changed several elements and are therefore considered standalone releases.<BR>
+<IMG SRC="Far_Cry_2_cover_art.JPG"><iMG SRC ="Far_Cry_3_PAL_box_art.JPG"><IMG SRC ="Far_Cry_4_box_art.JPG"><IMG SRC ="POOOP.JPG">
+<hr>
+<b><LI><h2 style ="color:YELLOW;">HITMAN ABSOLUTION&BLOOD MONEY</LI></H2></b>
+<P STYLE ="COLOR:RED">Hitman is a stealth video game franchise developed by Danish developer IO Interactive, and previously published by Square Enix, Warner Bros. Interactive Entertainment. IO Interactive remained a subsidiary of Square Enix until 2017, <br>
+when Square Enix started seeking buyers for the studio. IO Interactive completed a management buyout, regaining their independent status and retaining the rights for Hitman, in June 2017.<BR>
+The games are available for macOS, Linux, Microsoft Windows and multiple consoles, including the PlayStation 2, Xbox, GameCube, PlayStation 3, Xbox 360, PlayStation Vita, PlayStation 4, Xbox One, PlayStation 5, Xbox Series X,<BR>
+ Nintendo Switch, and Stadia with the spin-off games also being available on mobile devices including Android, iOS and Windows Phone.</P>
+<IMG SRC="capsule_616x353.JPG"><IMG SRC="HitmanAbsolutionPackArt.JPG"><IMG SRC="download (1).JPG">
+<hr>
+<b><LI><h2 style ="color:YELLOW;">BATTLEFIELD2,3&4</LI></H2><.b>
+<P STYLE  ="COLOR:RED">Battlefield is a series of first-person shooter video games developed by Swedish company EA DICE and is published by American company Electronic Arts.<br>
+It started out on Microsoft Windows and OS X with Battlefield 1942, which was released in 2002. The Battlefield series has been played by more than 50 million players worldwide as of August 2012.[1][2]<BR>
+The series features a particular focus on large maps, teamwork and combined arms warfare. The PC games in the series are mainly focused on online multiplayer.<BR>
+Battlefield series games usually focus on large-scale, online multiplayer battles. Playing in squads has become a major element of games in the series. Apart from soldiers, also tanks, airplanes, and other vehicles may participate in these battles.<BR>
+Since Battlefield 2, the series centrally recorded online stats for each player, allowing users to receive rank promotions and weapon unlocks based on their performance as well as awards such as medals, ribbons, and pins.<BR>
+A class system is present within all the Battlefield games. Each class features a different type of primary weapon along with different equipment, differentiating roles on the battlefield.<BR>
+The ability to engage other players in melee combat with a knife has been present in Battlefield games. Since Battlefield 2142, the series has included an award of dog tags for each player killed using a knife.[3]<BR>
+Since the introduction of Frostbite, almost fully destructible maps have become one of the most well-known features of the series.</P>
+<IMG SRC="download (3).JPG"><IMG SRC ="download (2).JPG"><IMG SRC="images (2).JPG">
+<hr>
+<b><LI><h2 style ="color:YELLOW;">Layers of Fear</Li></h2></b>
+<P STYLE="COLOR:RED">Layers of Fear is a psychological horror video game developed by Bloober Team and published by Aspyr. It was released on Linux, Microsoft Windows, macOS, PlayStation 4, and Xbox One worldwide in February 2016.<BR>
+n Layers of Fear, the player controls a psychologically disturbed painter who is trying to complete his magnum opus as he navigates a Victorian mansion revealing secrets about his past. The gameplay, presented in first-person perspective,<BR>
+ is story-driven and revolves around puzzle-solving and exploration. Layers of Fear: Inheritance was released on 2 August 2016 as a direct follow up add-on to the first game.<BR>
+This time the player controls the painter's daughter with the downloadable content focusing on her apparent relapse into trauma after returning to her old house.<BR>
+A definitive port for the Nintendo Switch, entitled Layers of Fear: Legacy, was released on 21 February 2018 and it features, in addition to the Inheritance DLC, Joy-Con, touchscreen, and HD Rumble support.[1] <BR>
+ A limited physical retail release for the Nintendo Switch and PlayStation 4, published by Limited Run Games in North America, would be available starting October 2018.[2]<BR>
+A sequel titled Layers of Fear 2 was announced in October 2018 and was released on May 29, 2019.[3] A second sequel, titled Layers of Fears, is set to launch in early 2023.[4]</P>
+<IMG SRC="download (4).JPG">
+<hr>
+<b><LI><h2 style ="color:YELLOW;">GETTING OVER IT WITH BENNETT FODDY</LI></H2></b>
+<P STYLE="COLOR:RED">Getting Over It revolves around the player-controlled character named Diogenes, who, somewhat true to his namesake, resides in a large metal cauldron. He wields a Yosemite hammer, <BR>
+which he can use to grip objects and move himself. Using the mouse or trackpad,[note 1] the player tries to move the man's upper body and sledge hammer in order to climb a steep mountain.<BR>
+The game is accompanied by voice-over commentary from Bennett Foddy discussing various philosophical topics. The commentary also provides quotations relating to disappointment and perseverance when significant progress is lost by the player,<BR>
+as well as when the player reaches certain milestones in the game.</P>
+<P STYLE ="COLOR:RED">As the player progress up the mountain, they are at a constant risk of losing some or all of their progress; there are no checkpoints<BR>
+The game concludes when the player reaches the highest point of the map, entering space. Closing credits fade in, where at the conclusion, a message asks players if they are recording the gameplay.<BR>
+If the player indicates that they are not, the game provides access to a chatroom populated by other players who have recently completed the game.</P>
+<IMG SRC ="download (5).JPG">
+<hr>
+<b><LI><h2 style ="color:YELLOW;">Tomb Raider(2013)</LI></H2></b>
+<P STYLE ="COLOR:RED">omb Raider is a 2013 action-adventure video game developed by Crystal Dynamics and published by Square Enix's European subsidiary. It is the tenth main game in the Tomb Raider franchise and a reboot of the series,<BR>
+acting as the first instalment in the Survivor trilogy that reconstructs the origins of Lara Croft.[4][5] Tomb Raider was released on 5 March 2013 for Microsoft Windows, PlayStation 3 and Xbox 360. <BR>
+Gameplay focus is on survival, with exploration when traversing the island and visiting various optional tombs. It is the first game in the main series to have multiplayer, <BR>
+ the first game in the series to be published by Square Enix, after the latter's acquisition of Eidos Interactive in 2009.</P>
+<P STYLE="COLOR:RED">Crystal Dynamics began development of Tomb Raider soon after the release of Tomb Raider: Underworld in 2008. Rather than a sequel, the team decided to reboot the series, re-establishing the origins of Lara Croft for the second time, <BR>
+as they did with Tomb Raider: Legend. Tomb Raider is set on Yamatai, an island from which Lara, who is untested and not yet the battle-hardened explorer she is in other titles in the series, <BR>
+must save her friends and escape while being hunted down by a malevolent cult. Camilla Luddington was hired to voice and perform as Lara Croft, replacing Keeley Hawes.</P>
+<IMG SRC="header.JPG">
+<hr>
+<b><LI><h2 style ="color:YELLOW;">Call of Duty Modern Warfare II&III</LI></H2></b>
+<P STYLE ="COLOR:RED">Call of Duty: Modern Warfare is a 2019 first-person shooter game developed by Infinity Ward and published by Activision. Serving as the sixteenth overall installment<BR>
+in the Call of Duty series, as well as a reboot of the Modern Warfare sub-series,[1][2][3] it was released on October 25, 2019, for PlayStation 4, Windows, and Xbox One.<BR>
+The game takes place in a realistic and modern setting. The campaign follows a CIA officer and British SAS forces as they team up with rebels from the fictional<BR>
+country of Urzikstan, combating together against Russian Armed Forces who have invaded the country and the terrorist group Al-Qatala. The game's Special Ops<BR>
+mode features cooperative play missions that follow on from the campaign. The multiplayer mode supports cross-platform multiplayer and cross-platform progression<BR>
+for the first time in the series. It has been reworked for gameplay to be more tactical and introduces new features, such as a Realism mode that removes the HUD as<BR>
+well as a form of the Ground War mode that now supports 64 players. A post-launch update introduces a free-to-play battle royale mode, Warzone, which was also<BR>
+marketed as a standalone title. Multiplayer also supports shared screen multiplayer. This mode includes bots, custom maps, custom game-modes and other creative<BR>
+game-interfering actions.</P>
+<IMG SRC="images (4).JPG"><IMG SRC="300px-Cover_MW3.JPG">
+
+
+
+        
+</head>
+</OL>
+</body>
+</html>
